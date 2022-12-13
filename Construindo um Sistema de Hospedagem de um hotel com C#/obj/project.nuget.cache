@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7dfwId+1/n/wxMoSzVpQElsKLYizJnOnuK97Hw05K0eR2QeaX2b4h8R6vaIAuZc5DKHtNkPg18KZwUA6Pftyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.ramos\\Documents\\DIO-Projetos\\Construindo um Sistema de Hospedagem de um hotel com C#\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.ramos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\lucas.ramos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\lucas.ramos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\lucas.ramos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
