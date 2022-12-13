@@ -5,6 +5,7 @@ Smartphone nokia = new Nokia(numero: "(71) 9 9845-1256", modelo: "Nokia 5.4 128G
 nokia.Ligar();
 nokia.InstalarAplicativo("Whatsapp");
 
+
 Console.WriteLine("Smartphone Iphone: ");
 Smartphone iphone = new Nokia(numero: "(41) 9 9821-1629", modelo: "Iphone 11 64GB", imei: "728526497", memoria: 64);
 iphone.Ligar();
